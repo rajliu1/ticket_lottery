@@ -1,6 +1,6 @@
 {
-  "name": "ticket lottery",
+  "name": "Token Lottery Ticket #",
   "symbol": "TICKET",
-  "description": "Fully for testing purposes only",
+  "description": "Lottery Ticket",
   "image": "https://github.com/rajliu1/ticket_lottery/blob/main/ticketlottery.jpg"
 }
